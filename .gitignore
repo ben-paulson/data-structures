@@ -1,0 +1,24 @@
+Exclude all
+#########
+*
+!*/
+!.gitignore
+!*.md # Do not ignore readme
+#########
+#Source files:
+#########
+#Do NOT ignore Python files.
+!*.py
+!hashtable/stop_words.txt
+!search_engine/stop_words.txt
+!search_engine/docs/*.txt
+########
+# Folders:
+#########
+recursion
+mt
+project3_stsrter_tests_revised0519/*
+########
+# Files
+#########
+recursive/bear_picnic.py
